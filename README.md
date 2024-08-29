@@ -1,3 +1,5 @@
+![Screenshot (29)](https://github.com/user-attachments/assets/7ba8d1ed-2487-4c4b-9148-72803578d67f)
+
  Trivia Quest: Technical Overview
 
 Project Name: Trivia Quest
