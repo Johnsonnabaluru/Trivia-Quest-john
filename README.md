@@ -1,4 +1,8 @@
 ![Screenshot (29)](https://github.com/user-attachments/assets/7ba8d1ed-2487-4c4b-9148-72803578d67f)
+![Screenshot (30)](https://github.com/user-attachments/assets/121854c8-e2bb-4ff6-8bc6-dc0f16669841)
+![Screenshot (31)](https://github.com/user-attachments/assets/868f73d4-6ead-4d84-bec4-0c2a0006d841)
+![Screenshot (32)](https://github.com/user-attachments/assets/4f9f0777-2fc4-4485-986c-2ba70b6949f7)
+
 
  Trivia Quest: Technical Overview
 
