@@ -1,4 +1,3 @@
-// src/App.js
 import Navbar from './components/Navbar';
 import Menu from './pages/Menu';
 import Quiz from './pages/Quiz';

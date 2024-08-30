@@ -1,4 +1,3 @@
-// src/QuizContext.js
 import { createContext, useReducer } from 'react';
 
 const optionsReducer = (state, action) => {

@@ -1,4 +1,3 @@
-// src/components/Question.js
 import { useContext, useEffect, useState } from 'react';
 import QuizContext from '../QuizContext';
 
